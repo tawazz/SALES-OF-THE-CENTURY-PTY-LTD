@@ -1,0 +1,12 @@
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\bin\Debug\SALES OF THE CENTURY PTY LTD.exe
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\bin\Debug\SALES OF THE CENTURY PTY LTD.pdb
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES_OF_THE_CENTURY_PTY_LTD.Main.resources
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES_OF_THE_CENTURY_PTY_LTD.Properties.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES OF THE CENTURY PTY LTD.exe
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES OF THE CENTURY PTY LTD.pdb
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES_OF_THE_CENTURY_PTY_LTD.SalemanForm.resources
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES_OF_THE_CENTURY_PTY_LTD.ListDB.resources
+D:\My Documents\Visual Studio 2010\Projects\SALES OF THE CENTURY PTY LTD\SALES OF THE CENTURY PTY LTD\obj\x86\Debug\SALES_OF_THE_CENTURY_PTY_LTD.Prompt.resources
